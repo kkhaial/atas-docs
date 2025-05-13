@@ -1,0 +1,28 @@
+var interfaceATAS_1_1Indicators_1_1IChart =
+[
+    [ "GetPriceString", "interfaceATAS_1_1Indicators_1_1IChart.html#a204356803380ab4d94b247fad1c8ff15", null ],
+    [ "TryGetMinimizedVolumeString", "interfaceATAS_1_1Indicators_1_1IChart.html#a84fe59ac20986d91e80e202bd7ba73cb", null ],
+    [ "TryGetMinimizedVolumeString", "interfaceATAS_1_1Indicators_1_1IChart.html#a1358c36b2f9ff7ffbc7ac665cb862713", null ],
+    [ "ChartContainer", "interfaceATAS_1_1Indicators_1_1IChart.html#acf9503c67176bc020447a5320e8303d7", null ],
+    [ "ChartType", "interfaceATAS_1_1Indicators_1_1IChart.html#aceed9146e0f22df4c6685241761fe2a7", null ],
+    [ "ChartVisualMode", "interfaceATAS_1_1Indicators_1_1IChart.html#a2f7abd6890435f50dd13e37364974346", null ],
+    [ "ColorsStore", "interfaceATAS_1_1Indicators_1_1IChart.html#ade75579aa63f898e84c8231c73ec1b90", null ],
+    [ "CoordinatesManager", "interfaceATAS_1_1Indicators_1_1IChart.html#a5c87f89e74e3e958e564a61d577c69b7", null ],
+    [ "DpiX", "interfaceATAS_1_1Indicators_1_1IChart.html#a50958777f38f6b90ce8bb6b7e432c031", null ],
+    [ "DpiY", "interfaceATAS_1_1Indicators_1_1IChart.html#ad17fb543c6ca9e76ee10bcb433d2ea31", null ],
+    [ "DrawingObjectsListInfo", "interfaceATAS_1_1Indicators_1_1IChart.html#a22c9be54833347ce3a1c8f4fa78755b7", null ],
+    [ "FootprintColorScheme", "interfaceATAS_1_1Indicators_1_1IChart.html#a5ddc192b228b4b560b4f800931696d0b", null ],
+    [ "FootprintContentMode", "interfaceATAS_1_1Indicators_1_1IChart.html#a83df2de5ae5b38816bf02b3ea17e7609", null ],
+    [ "FootprintVisualMode", "interfaceATAS_1_1Indicators_1_1IChart.html#a78874ccbfdce794cc751bd5d0a1a544b", null ],
+    [ "HidePriceAxis", "interfaceATAS_1_1Indicators_1_1IChart.html#a590ed2dd005a3c3cd85b90a725e0c5ec", null ],
+    [ "IndicatorsListHorizontalOffset", "interfaceATAS_1_1Indicators_1_1IChart.html#a993771507361fd7995cffabf50594c6c", null ],
+    [ "IndicatorsListVerticalOffset", "interfaceATAS_1_1Indicators_1_1IChart.html#aaab673759e729a7fde59eed139af0900", null ],
+    [ "KeyboardInfo", "interfaceATAS_1_1Indicators_1_1IChart.html#a0940c0b2b048afadb403e8f8771c0145", null ],
+    [ "MouseLocationInfo", "interfaceATAS_1_1Indicators_1_1IChart.html#a2b453ffac2db8265bb5f86b00a3a134f", null ],
+    [ "PriceAxisFont", "interfaceATAS_1_1Indicators_1_1IChart.html#a482bdb20843aa7deaf83e73f5780a091", null ],
+    [ "PriceChartContainer", "interfaceATAS_1_1Indicators_1_1IChart.html#ab2ce4a79734b9a560b2f665597d0a458", null ],
+    [ "StatusLineHorizontalOffset", "interfaceATAS_1_1Indicators_1_1IChart.html#a737f4d372ee697448d73979a3aec9faf", null ],
+    [ "StringFormat", "interfaceATAS_1_1Indicators_1_1IChart.html#a0cc9650edf1e34058720f42eeb56f393", null ],
+    [ "TimeFrame", "interfaceATAS_1_1Indicators_1_1IChart.html#a3b0d6e200543ecafcab363a1772fa2f4", null ],
+    [ "TradingSessionDescriptions", "interfaceATAS_1_1Indicators_1_1IChart.html#ad2078b9bea5311ee4649a657dc25ae8d", null ]
+];

@@ -1,0 +1,27 @@
+var classATAS_1_1DataFeedsCore_1_1MyTrade =
+[
+    [ "Clone", "classATAS_1_1DataFeedsCore_1_1MyTrade.html#a42b14a2daafcbc93a44b0d7562e89905", null ],
+    [ "Display", "classATAS_1_1DataFeedsCore_1_1MyTrade.html#a4bd45f20954e8e7dd963f932238bbf65", null ],
+    [ "OnPropertyChanged", "classATAS_1_1DataFeedsCore_1_1MyTrade.html#a3be4092f42035ab816356a4f5c35ac37", null ],
+    [ "ToString", "classATAS_1_1DataFeedsCore_1_1MyTrade.html#af10fb846368f0eae411f0fb6d446168b", null ],
+    [ "AccountID", "classATAS_1_1DataFeedsCore_1_1MyTrade.html#adf5ad1b14a9c71700e7ae4eb6b18138d", null ],
+    [ "Commission", "classATAS_1_1DataFeedsCore_1_1MyTrade.html#a0300231a4231c8531fc6893413b1fa92", null ],
+    [ "CommissionCurrency", "classATAS_1_1DataFeedsCore_1_1MyTrade.html#abce2538b14d5f57b4af47ce4b247c75b", null ],
+    [ "EntityType", "classATAS_1_1DataFeedsCore_1_1MyTrade.html#a306f8c52e513aca851b1b8c39ed0d17b", null ],
+    [ "Id", "classATAS_1_1DataFeedsCore_1_1MyTrade.html#a2a1645dd626a671353ca4adc359ab697", null ],
+    [ "IsMaker", "classATAS_1_1DataFeedsCore_1_1MyTrade.html#ac639983f108a5d1b5d47714545f995a3", null ],
+    [ "IsNew", "classATAS_1_1DataFeedsCore_1_1MyTrade.html#a5b46f3122a808d8a6d3a257bd4ce501a", null ],
+    [ "OpenVolume", "classATAS_1_1DataFeedsCore_1_1MyTrade.html#aa7ebf2e5dc4e9be90da0d3783fd6d506", null ],
+    [ "Order", "classATAS_1_1DataFeedsCore_1_1MyTrade.html#a690a1084c15075693e009303c95f9b1c", null ],
+    [ "OrderDirection", "classATAS_1_1DataFeedsCore_1_1MyTrade.html#a79998b450e1aabc7435a998228f3af03", null ],
+    [ "OrderId", "classATAS_1_1DataFeedsCore_1_1MyTrade.html#ac54cd783a655249b56257a26f725d9c1", null ],
+    [ "Parent", "classATAS_1_1DataFeedsCore_1_1MyTrade.html#a3f3ecfdc0824817838ccef7cb1be74bb", null ],
+    [ "Portfolio", "classATAS_1_1DataFeedsCore_1_1MyTrade.html#a3ffe41334bb93b523697e84b4181c10c", null ],
+    [ "Price", "classATAS_1_1DataFeedsCore_1_1MyTrade.html#a333eb95708dfe05f9facda23d9f8d40f", null ],
+    [ "Route", "classATAS_1_1DataFeedsCore_1_1MyTrade.html#a01c21c3039bb9315bec8b8ebb3a9224c", null ],
+    [ "Security", "classATAS_1_1DataFeedsCore_1_1MyTrade.html#a20af88ae58deca3d0550e83f0eda7595", null ],
+    [ "SecurityId", "classATAS_1_1DataFeedsCore_1_1MyTrade.html#a16ae59143aeb5b021180d3bd7efd05b3", null ],
+    [ "Time", "classATAS_1_1DataFeedsCore_1_1MyTrade.html#ae1038f76bacdc28cef3b5a2b9db8f869", null ],
+    [ "Volume", "classATAS_1_1DataFeedsCore_1_1MyTrade.html#ac97f54584d2471e9f72153026aec55bd", null ],
+    [ "PropertyChanged", "classATAS_1_1DataFeedsCore_1_1MyTrade.html#ad8c4cf0bf5ff77399b980766ee925687", null ]
+];

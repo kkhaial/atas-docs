@@ -1,0 +1,25 @@
+var classATAS_1_1DataFeedsCore_1_1SecurityPositionManager =
+[
+    [ "SecurityPositionManager", "classATAS_1_1DataFeedsCore_1_1SecurityPositionManager.html#ac25f092fd8cf3519373543bb7f686a3a", null ],
+    [ "Clear", "classATAS_1_1DataFeedsCore_1_1SecurityPositionManager.html#a09766360c8fd0f393da8365fd86a293a", null ],
+    [ "GetIsChanged", "classATAS_1_1DataFeedsCore_1_1SecurityPositionManager.html#a98fa8bafd5db5885437f1d3b8f40a257", null ],
+    [ "GetIsNeedSubscribeLevel1", "classATAS_1_1DataFeedsCore_1_1SecurityPositionManager.html#a79e8d355173aba1111da77baf1dae15d", null ],
+    [ "GetPnlMultiplier", "classATAS_1_1DataFeedsCore_1_1SecurityPositionManager.html#a266090af8c1491f61e6db6049bab9398", null ],
+    [ "Process", "classATAS_1_1DataFeedsCore_1_1SecurityPositionManager.html#a8ecbdc3ebe5804db5a62a2d86b6ffaed", null ],
+    [ "Process", "classATAS_1_1DataFeedsCore_1_1SecurityPositionManager.html#a529f8228323e2ac8ff44fb19565ab049", null ],
+    [ "SetAveragePrice", "classATAS_1_1DataFeedsCore_1_1SecurityPositionManager.html#a565f65209c79085f21bc77fccfbc5b7e", null ],
+    [ "Update", "classATAS_1_1DataFeedsCore_1_1SecurityPositionManager.html#aecbf50ef5506037052d181e4ad199cee", null ],
+    [ "UpdateAveragePriceByTrades", "classATAS_1_1DataFeedsCore_1_1SecurityPositionManager.html#a0d88276362b9f172f3b477af1d94b5d5", null ],
+    [ "UpdateOpenPnL", "classATAS_1_1DataFeedsCore_1_1SecurityPositionManager.html#a810914997353faf6ff385044926791f2", null ],
+    [ "UpdateUnrealizedPnl", "classATAS_1_1DataFeedsCore_1_1SecurityPositionManager.html#a392f20a4ca330b1c144e28696e542d2b", null ],
+    [ "AllowSubscribeLevel1", "classATAS_1_1DataFeedsCore_1_1SecurityPositionManager.html#aee9c16b1f1414cbbf400feb2c6501371", null ],
+    [ "AveragePrice", "classATAS_1_1DataFeedsCore_1_1SecurityPositionManager.html#a57d043b11352b1e686fb7f8eb4324299", null ],
+    [ "AveragePriceValueType", "classATAS_1_1DataFeedsCore_1_1SecurityPositionManager.html#a367cde12c209a7618745d6df5b476627", null ],
+    [ "CalculateAveragePrice", "classATAS_1_1DataFeedsCore_1_1SecurityPositionManager.html#a25ee0ea62ce434def2ccfdef7c0bc15a", null ],
+    [ "CalculateClosedPnL", "classATAS_1_1DataFeedsCore_1_1SecurityPositionManager.html#a328705dcf5a930a522f65d804e9b1903", null ],
+    [ "CalculateOpenedPnL", "classATAS_1_1DataFeedsCore_1_1SecurityPositionManager.html#a26f1e204414cfd526ccac8815997d1bd", null ],
+    [ "CalculateVolume", "classATAS_1_1DataFeedsCore_1_1SecurityPositionManager.html#a78ce21aa6d1018613ee6ea55b421937e", null ],
+    [ "IsPositionInitialized", "classATAS_1_1DataFeedsCore_1_1SecurityPositionManager.html#ae3d7d1dfea4f0f87ddda013602dae342", null ],
+    [ "Position", "classATAS_1_1DataFeedsCore_1_1SecurityPositionManager.html#a776a6789288c51c29f5c3da3e311b8b9", null ],
+    [ "Volume", "classATAS_1_1DataFeedsCore_1_1SecurityPositionManager.html#af34a24a380ef8dbe69c4dbb1225a4874", null ]
+];

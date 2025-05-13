@@ -1,0 +1,27 @@
+var classATAS_1_1DataFeedsCore_1_1ConnectorWebsocket_1_1ConnectorWebsocket =
+[
+    [ "ConnectorWebsocket", "classATAS_1_1DataFeedsCore_1_1ConnectorWebsocket_1_1ConnectorWebsocket.html#a138af3bb136596779d17260e8eca7e6c", null ],
+    [ "ConnectorWebsocket", "classATAS_1_1DataFeedsCore_1_1ConnectorWebsocket_1_1ConnectorWebsocket.html#a77faced127fa82ff5898bc13e30aafc8", null ],
+    [ "SabotageConnection", "classATAS_1_1DataFeedsCore_1_1ConnectorWebsocket_1_1ConnectorWebsocket.html#ac69232986e99147786b3b235475b47c0", null ],
+    [ "SabotageInitialization", "classATAS_1_1DataFeedsCore_1_1ConnectorWebsocket_1_1ConnectorWebsocket.html#a9d75d535782c32ed73df2908e33b6972", null ],
+    [ "Send", "classATAS_1_1DataFeedsCore_1_1ConnectorWebsocket_1_1ConnectorWebsocket.html#a3f9cca3d26a5530fda1f3bfb9f0aace1", null ],
+    [ "SendImmediate", "classATAS_1_1DataFeedsCore_1_1ConnectorWebsocket_1_1ConnectorWebsocket.html#a0a44f9ec29d3f600ca4e55ef6ea1383f", null ],
+    [ "Start", "classATAS_1_1DataFeedsCore_1_1ConnectorWebsocket_1_1ConnectorWebsocket.html#a4f2be148ef23f96b2f264cfd2a11136b", null ],
+    [ "StopAsync", "classATAS_1_1DataFeedsCore_1_1ConnectorWebsocket_1_1ConnectorWebsocket.html#a243b723a6c0a2e6a0a5a65aefde26c3a", null ],
+    [ "SubscribeLiquidations", "classATAS_1_1DataFeedsCore_1_1ConnectorWebsocket_1_1ConnectorWebsocket.html#a766f63510d968e3d8719622f66f6dfbe", null ],
+    [ "SubscribeMarketData", "classATAS_1_1DataFeedsCore_1_1ConnectorWebsocket_1_1ConnectorWebsocket.html#ae37beb6ced12d0897cf440288e632d84", null ],
+    [ "SubscribeMarketData", "classATAS_1_1DataFeedsCore_1_1ConnectorWebsocket_1_1ConnectorWebsocket.html#a1707774f1c2255501ae16f197c39b190", null ],
+    [ "UnsubscribeLiquidations", "classATAS_1_1DataFeedsCore_1_1ConnectorWebsocket_1_1ConnectorWebsocket.html#a8726cbe13c0950ccdd160b227c501240", null ],
+    [ "UnsubscribeMarketData", "classATAS_1_1DataFeedsCore_1_1ConnectorWebsocket_1_1ConnectorWebsocket.html#a47c4a90b8c3c4a70bc5fa55c98494f52", null ],
+    [ "UnsubscribeMarketData", "classATAS_1_1DataFeedsCore_1_1ConnectorWebsocket_1_1ConnectorWebsocket.html#a28e2ee22b7618681e3a2740d909df168", null ],
+    [ "ConnectionState", "classATAS_1_1DataFeedsCore_1_1ConnectorWebsocket_1_1ConnectorWebsocket.html#af2c5fc9a1c78b37901fcb5371a6a6c64", null ],
+    [ "IsConnected", "classATAS_1_1DataFeedsCore_1_1ConnectorWebsocket_1_1ConnectorWebsocket.html#a256d5cec58f16835eb35ba1b45eb6999", null ],
+    [ "IsPublic", "classATAS_1_1DataFeedsCore_1_1ConnectorWebsocket_1_1ConnectorWebsocket.html#a413f9455d6865bcf9514bb4f789fe173", null ],
+    [ "ReconnectionInterval", "classATAS_1_1DataFeedsCore_1_1ConnectorWebsocket_1_1ConnectorWebsocket.html#a3a330c51ff2e23436ddaf3d3cc735f9d", null ],
+    [ "Serializer", "classATAS_1_1DataFeedsCore_1_1ConnectorWebsocket_1_1ConnectorWebsocket.html#a2ca170004588540c5487ef319d9e2908", null ],
+    [ "Timeout", "classATAS_1_1DataFeedsCore_1_1ConnectorWebsocket_1_1ConnectorWebsocket.html#aefad98d10eff3435cf382cf0dc40de33", null ],
+    [ "Url", "classATAS_1_1DataFeedsCore_1_1ConnectorWebsocket_1_1ConnectorWebsocket.html#ab208a6ca325d165d36116540c5451b09", null ],
+    [ "Connected", "classATAS_1_1DataFeedsCore_1_1ConnectorWebsocket_1_1ConnectorWebsocket.html#a6d57761f6f82725fa7cbb9520bc57144", null ],
+    [ "Error", "classATAS_1_1DataFeedsCore_1_1ConnectorWebsocket_1_1ConnectorWebsocket.html#a8d8117a79996fd4d41fe463d3bef57f2", null ],
+    [ "Message", "classATAS_1_1DataFeedsCore_1_1ConnectorWebsocket_1_1ConnectorWebsocket.html#aafe7ecb462a2993c420483ca5ac3973a", null ]
+];

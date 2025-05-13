@@ -1,0 +1,28 @@
+var classATAS_1_1Indicators_1_1ValueDataSeries =
+[
+    [ "BarColors", "classATAS_1_1Indicators_1_1ValueDataSeries_1_1BarColors.html", "classATAS_1_1Indicators_1_1ValueDataSeries_1_1BarColors" ],
+    [ "ValueDataSeries", "classATAS_1_1Indicators_1_1ValueDataSeries.html#ae98e178ecc4291792a28f1886c43c330", null ],
+    [ "ValueDataSeries", "classATAS_1_1Indicators_1_1ValueDataSeries.html#a28f8532cf77885da8d9e59df59ad19d5", null ],
+    [ "Clear", "classATAS_1_1Indicators_1_1ValueDataSeries.html#a7d7d20a17b3b2f7f1b56a9c7c5c87fdd", null ],
+    [ "IsThisPointOfStartBar", "classATAS_1_1Indicators_1_1ValueDataSeries.html#a338c720c7e369f069f8b2f38c7e8831e", null ],
+    [ "LastNonZeroValue", "classATAS_1_1Indicators_1_1ValueDataSeries.html#aea89fb6a64e16c55223a069e7d2aedd5", null ],
+    [ "RemovePointOfEndLine", "classATAS_1_1Indicators_1_1ValueDataSeries.html#aafa4adfd4afe5ba2eb11cf2c7b166de1", null ],
+    [ "SetPointOfEndLine", "classATAS_1_1Indicators_1_1ValueDataSeries.html#a36e03449209e39e11ee5c42b5b863548", null ],
+    [ "Color", "classATAS_1_1Indicators_1_1ValueDataSeries.html#afc4f2cfe3d9905c0b17f1f9f8253b879", null ],
+    [ "Colors", "classATAS_1_1Indicators_1_1ValueDataSeries.html#a0407916d780bc8fb31fe1870130a0588", null ],
+    [ "Count", "classATAS_1_1Indicators_1_1ValueDataSeries.html#a12c93c47d7672c4fdffe1c7fb6cea96c", null ],
+    [ "Digits", "classATAS_1_1Indicators_1_1ValueDataSeries.html#a8d1a7b389cf0d90f278d5b1c94b51424", null ],
+    [ "IsVisible", "classATAS_1_1Indicators_1_1ValueDataSeries.html#ab22b8d8d66ed87aeb54e8ad58eb93f30", null ],
+    [ "LineDashStyle", "classATAS_1_1Indicators_1_1ValueDataSeries.html#a1a4cde304137cc6e6bc05f4088bcb16e", null ],
+    [ "RenderColor", "classATAS_1_1Indicators_1_1ValueDataSeries.html#a4fb5cc9e976eaad06f260ae2d0c5c348", null ],
+    [ "ScaleIt", "classATAS_1_1Indicators_1_1ValueDataSeries.html#afa31f6a4e94d7dcef6dc0d9bed2a1910", null ],
+    [ "ShowCurrentValue", "classATAS_1_1Indicators_1_1ValueDataSeries.html#ae907ee964811c528eeda3c44b31080f2", null ],
+    [ "ShowOnlyNonZeroLabels", "classATAS_1_1Indicators_1_1ValueDataSeries.html#aef0027b4abc2f0b49c0aea74458c57a9", null ],
+    [ "ShowZeroValue", "classATAS_1_1Indicators_1_1ValueDataSeries.html#a81709dd6712b23f9bbabce016f0a0f0e", null ],
+    [ "StringFormat", "classATAS_1_1Indicators_1_1ValueDataSeries.html#a4b091acaa0a628fc8a563ac27bd1b4e7", null ],
+    [ "this[int index]", "classATAS_1_1Indicators_1_1ValueDataSeries.html#a78b410e2e05c7fcd1f89637349430dc8", null ],
+    [ "ValuesColor", "classATAS_1_1Indicators_1_1ValueDataSeries.html#a8d5cb00d6dc8dcce1f8ac32e236cf37e", null ],
+    [ "VisualType", "classATAS_1_1Indicators_1_1ValueDataSeries.html#a653b3a68b914e1a5a591f92d90e7aa3a", null ],
+    [ "Width", "classATAS_1_1Indicators_1_1ValueDataSeries.html#af7b58a3626c12088b203aa96a2d58449", null ],
+    [ "ZeroValue", "classATAS_1_1Indicators_1_1ValueDataSeries.html#acf0e9ac28844b008ff3c44cf5027f26f", null ]
+];
