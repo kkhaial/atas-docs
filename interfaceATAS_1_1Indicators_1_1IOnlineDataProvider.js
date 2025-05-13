@@ -1,0 +1,28 @@
+var interfaceATAS_1_1Indicators_1_1IOnlineDataProvider =
+[
+    [ "AddAlert", "interfaceATAS_1_1Indicators_1_1IOnlineDataProvider.html#ac423580c9e3a218f98fa7751456a2648", null ],
+    [ "AddAlert", "interfaceATAS_1_1Indicators_1_1IOnlineDataProvider.html#a2b12395f3baf7f62268f8141aeeb6e7d", null ],
+    [ "GetCustomStartTime", "interfaceATAS_1_1Indicators_1_1IOnlineDataProvider.html#a0ce8894ff3e0a64e8252a719650cdae3", null ],
+    [ "GetMarketByOrdersCache", "interfaceATAS_1_1Indicators_1_1IOnlineDataProvider.html#acf186529e3d00dea6d5d1ae534e6566a", null ],
+    [ "GetMarketByOrdersWithTradesCache", "interfaceATAS_1_1Indicators_1_1IOnlineDataProvider.html#a7dd1020a1694720e3e6009c1a08fd9cc", null ],
+    [ "GetMarketDepthSnapshot", "interfaceATAS_1_1Indicators_1_1IOnlineDataProvider.html#a6ce439329fe9dbb318c085589d051f59", null ],
+    [ "GetMarketDepthSnapshotsAsync", "interfaceATAS_1_1Indicators_1_1IOnlineDataProvider.html#a85db881f7f5d92999958e34b0ff2b46a", null ],
+    [ "GetTradesCache", "interfaceATAS_1_1Indicators_1_1IOnlineDataProvider.html#a6126683f98036b60d3c380331e5ff5aa", null ],
+    [ "IsNewMonth", "interfaceATAS_1_1Indicators_1_1IOnlineDataProvider.html#a551384d558af365bccbbaf6e55b6c9f6", null ],
+    [ "IsNewSession", "interfaceATAS_1_1Indicators_1_1IOnlineDataProvider.html#ae74b6eeb3d542462110aa0c50de43fa3", null ],
+    [ "IsNewWeek", "interfaceATAS_1_1Indicators_1_1IOnlineDataProvider.html#af1a5087015739d53fe2893deaf74d681", null ],
+    [ "RedrawChart", "interfaceATAS_1_1Indicators_1_1IOnlineDataProvider.html#a056caee17642a325e61a8591550f1dd1", null ],
+    [ "RequestCumulativeTrades", "interfaceATAS_1_1Indicators_1_1IOnlineDataProvider.html#a55c33bd55f76fc5b65bd229c7eaba271", null ],
+    [ "Subscribe", "interfaceATAS_1_1Indicators_1_1IOnlineDataProvider.html#ad6bc36c3a04ccf65c7fba9eb3b67f0d2", null ],
+    [ "SubscribeMarketByOrdersData", "interfaceATAS_1_1Indicators_1_1IOnlineDataProvider.html#adab9212d7dd76d7a8027d94984ea8393", null ],
+    [ "Unsubscribe", "interfaceATAS_1_1Indicators_1_1IOnlineDataProvider.html#aaf335fa8d6928bc6c15d23fdbba8c3bc", null ],
+    [ "CumulativeDomAsks", "interfaceATAS_1_1Indicators_1_1IOnlineDataProvider.html#ac75156b71052d1511951e97c364ca8e2", null ],
+    [ "CumulativeDomBids", "interfaceATAS_1_1Indicators_1_1IOnlineDataProvider.html#a426ce515e6adc4b7c2a4e23547a661cf", null ],
+    [ "BestBidAskChanged", "interfaceATAS_1_1Indicators_1_1IOnlineDataProvider.html#aac96f2c392fae50cca9438747b219086", null ],
+    [ "HistoricalCumulativeTrades", "interfaceATAS_1_1Indicators_1_1IOnlineDataProvider.html#a832cd4e7421bc260ca81529d320f00b3", null ],
+    [ "MarketByOrdersChanged", "interfaceATAS_1_1Indicators_1_1IOnlineDataProvider.html#a7318b57f2bf3d374b35b22db6e80b7e1", null ],
+    [ "MarketDepthsChanged", "interfaceATAS_1_1Indicators_1_1IOnlineDataProvider.html#a560d485d8d955ba0aa93be92f7a202a6", null ],
+    [ "NewCumulativeTrade", "interfaceATAS_1_1Indicators_1_1IOnlineDataProvider.html#a994dc0b5b18610aa4dfa0bbcabe85926", null ],
+    [ "NewTrades", "interfaceATAS_1_1Indicators_1_1IOnlineDataProvider.html#aa89961d1c18dda39663c9d780234506f", null ],
+    [ "UpdateCumulativeTrade", "interfaceATAS_1_1Indicators_1_1IOnlineDataProvider.html#a95c082b150ed0cf977a49739c0eb820a", null ]
+];

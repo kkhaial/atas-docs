@@ -1,0 +1,28 @@
+var classATAS_1_1DataFeedsCore_1_1HistoryMyTrade =
+[
+    [ "Clone", "classATAS_1_1DataFeedsCore_1_1HistoryMyTrade.html#ae5f8529af8f37865e0fe22f561b64d7f", null ],
+    [ "OnPropertyChanged", "classATAS_1_1DataFeedsCore_1_1HistoryMyTrade.html#a1281f998c2b75784e0083d2ca3d0b94c", null ],
+    [ "ToString", "classATAS_1_1DataFeedsCore_1_1HistoryMyTrade.html#ad9932f2b6f749aa9de74e85b432bb0a8", null ],
+    [ "AccountID", "classATAS_1_1DataFeedsCore_1_1HistoryMyTrade.html#ae84a5d56e2af75730ffec632e66c17a9", null ],
+    [ "ClosePrice", "classATAS_1_1DataFeedsCore_1_1HistoryMyTrade.html#abc6fe360bd0d114ab1ffa007b7a8f821", null ],
+    [ "CloseTime", "classATAS_1_1DataFeedsCore_1_1HistoryMyTrade.html#a77ee0b0d929dba581c0b3ae31b5b5fad", null ],
+    [ "CloseVolume", "classATAS_1_1DataFeedsCore_1_1HistoryMyTrade.html#ab477267ce14e7760d4f1bbe4da98bbbf", null ],
+    [ "Comment", "classATAS_1_1DataFeedsCore_1_1HistoryMyTrade.html#a2e6da56b8b41cf98c0b3a90585f6eb11", null ],
+    [ "Commission", "classATAS_1_1DataFeedsCore_1_1HistoryMyTrade.html#a0b18d755c77050adad94f9461fe33ae6", null ],
+    [ "EnterTrade", "classATAS_1_1DataFeedsCore_1_1HistoryMyTrade.html#addefbef2bf18c552b771e8d96932f6b7", null ],
+    [ "ExitTrade", "classATAS_1_1DataFeedsCore_1_1HistoryMyTrade.html#a2668a1a0250106a18c4e35b8d672fbdd", null ],
+    [ "Id", "classATAS_1_1DataFeedsCore_1_1HistoryMyTrade.html#a4f8ac1df5940dc4bb7dfd3b32da4e2a7", null ],
+    [ "IsComplete", "classATAS_1_1DataFeedsCore_1_1HistoryMyTrade.html#af65455e0d4ae894f62cfc0748b1ed8d1", null ],
+    [ "MissingDataCase", "classATAS_1_1DataFeedsCore_1_1HistoryMyTrade.html#a0e26b908b484835a6fc4b23f19114807", null ],
+    [ "OpenPrice", "classATAS_1_1DataFeedsCore_1_1HistoryMyTrade.html#a47875223f5a9c6abfbf49329d1662de2", null ],
+    [ "OpenTime", "classATAS_1_1DataFeedsCore_1_1HistoryMyTrade.html#a25aecba44b20727e8d4149e22ee713f0", null ],
+    [ "OpenVolume", "classATAS_1_1DataFeedsCore_1_1HistoryMyTrade.html#af436624aee30d1ac2b0fbf077a03d0b8", null ],
+    [ "PnL", "classATAS_1_1DataFeedsCore_1_1HistoryMyTrade.html#ae3e066ace9ec3744295e7db32e37409a", null ],
+    [ "Portfolio", "classATAS_1_1DataFeedsCore_1_1HistoryMyTrade.html#a646ac5856c9a597cb7fb17aef703c373", null ],
+    [ "PricePnL", "classATAS_1_1DataFeedsCore_1_1HistoryMyTrade.html#a184a6ec63b958845d31de6fe6ea181a5", null ],
+    [ "Security", "classATAS_1_1DataFeedsCore_1_1HistoryMyTrade.html#a21ba8e8d9eb64c07ed1a1f06d710383d", null ],
+    [ "SecurityCode", "classATAS_1_1DataFeedsCore_1_1HistoryMyTrade.html#adc21aa8eee5b4d27e390e976e6db74ca", null ],
+    [ "SecurityId", "classATAS_1_1DataFeedsCore_1_1HistoryMyTrade.html#a2b7312a0fee5b6ce480ef5c459d78e6c", null ],
+    [ "TicksPnL", "classATAS_1_1DataFeedsCore_1_1HistoryMyTrade.html#a5ad2377d7d72299ca628fb3f249d3e2c", null ],
+    [ "PropertyChanged", "classATAS_1_1DataFeedsCore_1_1HistoryMyTrade.html#ae1cc814c0c53a3a6bec8eca0f9cc3760", null ]
+];
